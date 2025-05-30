@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!, I'm Junry, a Filipino Web Developer 👋🏼
+Hello World!, I'm Junry, a BSIT Student 👋🏼
 
 
 # 💻 Tech Stack:
