@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!, I'm Junry Pacot, a BSIT Student 👋🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+new+roman&weight=500&size=11&duration=3000&pause=3000&color=44F713&separator=%3C&lines=Hello+world%2C+I+am+Junry+Pacot+a+BSIT+student👋++%2C+At;%3CAGUSAN+DEL+SUR+STATE+COLLEGE+OF+AGRICULTURE+AND+TECHNOLOGY+%3CCOLLEGE+OF+COMPUTING+AND+INFORMATION+SCIENCES)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack:
